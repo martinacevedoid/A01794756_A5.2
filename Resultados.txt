@@ -1,0 +1,30 @@
+Pylint
+
+TC1:
+Sales Report
+==============================
+Total Sales Amount: $2481.86
+Execution Time: 0.0005 seconds
+
+Errors:
+No errors encountered.
+
+
+TC2:
+Sales Report
+==============================
+Total Sales Amount: $166568.23
+Execution Time: 0.0006 seconds
+
+Errors:
+No errors encountered.
+
+TC3:
+Sales Report
+==============================
+Total Sales Amount: $165235.37
+Execution Time: 0.0006 seconds
+
+Errors:
+Error: Product 'Elotes' not found in price catalogue.
+Error: Product 'Frijoles' not found in price catalogue.
